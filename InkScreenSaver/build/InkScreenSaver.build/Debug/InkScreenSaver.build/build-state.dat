@@ -1,0 +1,293 @@
+TInkScreenSaver
+v7
+r0
+t304315108.698963
+cCheck dependencies
+cProcessInfoPlistFile /Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver/build/Debug/InkScreenSaver.saver/Contents/Info.plist Info.plist
+cCopyStringsFile /Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver/build/Debug/InkScreenSaver.saver/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cProcessPCH /var/folders/aQ/aQMCq8MVGJC2lqDhRrxJL++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/InkScreenSaver_Prefix-fcgmsiewnbvzsqadyszzniitpvzf/InkScreenSaver_Prefix.pch.gch InkScreenSaver_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/aQ/aQMCq8MVGJC2lqDhRrxJL++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/InkScreenSaver_Prefix-blhhsjwrbmqutjaxstfeypgwdhhr/InkScreenSaver_Prefix.pch.gch InkScreenSaver_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/aQ/aQMCq8MVGJC2lqDhRrxJL++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/InkScreenSaver_Prefix-eafatqvaommeszayjhgoliunbmkr/InkScreenSaver_Prefix.pch.gch InkScreenSaver_Prefix.pch normal ppc objective-c com.apple.compilers.gcc.4_2
+cCompileC build/InkScreenSaver.build/Debug/InkScreenSaver.build/Objects-normal/x86_64/InkScreenSaverView.o /Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver/InkScreenSaverView.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/InkScreenSaver.build/Debug/InkScreenSaver.build/Objects-normal/i386/InkScreenSaverView.o /Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver/InkScreenSaverView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver/build/InkScreenSaver.build/Debug/InkScreenSaver.build/Objects-normal/x86_64/InkScreenSaver normal x86_64
+cLd /Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver/build/InkScreenSaver.build/Debug/InkScreenSaver.build/Objects-normal/i386/InkScreenSaver normal i386
+cCompileC build/InkScreenSaver.build/Debug/InkScreenSaver.build/Objects-normal/ppc/InkScreenSaverView.o /Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver/InkScreenSaverView.m normal ppc objective-c com.apple.compilers.gcc.4_2
+cLd /Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver/build/InkScreenSaver.build/Debug/InkScreenSaver.build/Objects-normal/ppc/InkScreenSaver normal ppc
+cCreateUniversalBinary /Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver/build/Debug/InkScreenSaver.saver/Contents/MacOS/InkScreenSaver normal "x86_64 i386 ppc"
+cTouch /Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver/build/Debug/InkScreenSaver.saver
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h
+c000000004A67D2A800000000000017ED
+t1248318120
+s6125
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A600B8400000000000013E6
+t1247808388
+s5094
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/ScreenSaver.framework/Headers/ScreenSaver.h
+c000000004A419B5F00000000000000B9
+t1245813599
+s185
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/System/Library/Frameworks/ScreenSaver.framework/ScreenSaver
+c000000004AD871BD00000000000A7940
+t1255698877
+s686400
+
+N/Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver/English.lproj/InfoPlist.strings
+c000000004C73410000000000000000DE
+t1282621696
+s222
+
+N/Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver/InkScreenSaverView.h
+c000000004C7341000000000000000100
+t1282621696
+s256
+i<ScreenSaver/ScreenSaver.h>
+
+N/Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver/InkScreenSaverView.m
+c000000004C73433B00000000000002F0
+t1282622267
+s752
+i"InkScreenSaverView.h"
+
+N/Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver/InkScreenSaver_Prefix.pch
+c000000004C73410000000000000000C8
+t1282621696
+s200
+i<Foundation/Foundation.h>
+i<AppKit/AppKit.h>
+
+N/Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver/build/Debug/InkScreenSaver.saver
+t1282622308
+s102
+
+N/Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver/build/Debug/InkScreenSaver.saver/Contents/Info.plist
+t1282622289
+s803
+
+N/Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver/build/Debug/InkScreenSaver.saver/Contents/MacOS/InkScreenSaver
+t1282622308
+s46848
+
+N/Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver/build/Debug/InkScreenSaver.saver/Contents/Resources/English.lproj/InfoPlist.strings
+t1282622291
+s222
+
+N/Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver/build/InkScreenSaver.build/Debug/InkScreenSaver.build/Objects-normal/i386/InkScreenSaver
+t1282622308
+s13944
+
+N/Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver/build/InkScreenSaver.build/Debug/InkScreenSaver.build/Objects-normal/i386/InkScreenSaver.LinkFileList
+c000000004C734351000000000000009F
+t1282622289
+s159
+
+N/Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver/build/InkScreenSaver.build/Debug/InkScreenSaver.build/Objects-normal/i386/InkScreenSaverView.o
+t1282622306
+s15908
+
+N/Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver/build/InkScreenSaver.build/Debug/InkScreenSaver.build/Objects-normal/ppc/InkScreenSaver
+t1282622308
+s14080
+
+N/Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver/build/InkScreenSaver.build/Debug/InkScreenSaver.build/Objects-normal/ppc/InkScreenSaver.LinkFileList
+c000000004C734351000000000000009E
+t1282622289
+s158
+
+N/Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver/build/InkScreenSaver.build/Debug/InkScreenSaver.build/Objects-normal/ppc/InkScreenSaverView.o
+t1282622308
+s16540
+
+N/Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver/build/InkScreenSaver.build/Debug/InkScreenSaver.build/Objects-normal/x86_64/InkScreenSaver
+t1282622308
+s10544
+
+N/Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver/build/InkScreenSaver.build/Debug/InkScreenSaver.build/Objects-normal/x86_64/InkScreenSaver.LinkFileList
+c000000004C73435100000000000000A1
+t1282622289
+s161
+
+N/Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver/build/InkScreenSaver.build/Debug/InkScreenSaver.build/Objects-normal/x86_64/InkScreenSaverView.o
+t1282622306
+s17916
+
+N/var/folders/aQ/aQMCq8MVGJC2lqDhRrxJL++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/InkScreenSaver_Prefix-blhhsjwrbmqutjaxstfeypgwdhhr/InkScreenSaver_Prefix.pch.gch
+t1282622301
+s56214608
+
+N/var/folders/aQ/aQMCq8MVGJC2lqDhRrxJL++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/InkScreenSaver_Prefix-eafatqvaommeszayjhgoliunbmkr/InkScreenSaver_Prefix.pch.gch
+t1282622306
+s52503408
+
+N/var/folders/aQ/aQMCq8MVGJC2lqDhRrxJL++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/InkScreenSaver_Prefix-fcgmsiewnbvzsqadyszzniitpvzf/InkScreenSaver_Prefix.pch.gch
+t1282622300
+s53572656
+
+NInfo.plist
+c000000004C734438000000000000035D
+t1282622520
+s861
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies304315089#304315089#0(0"0(0#1#0"29836824280170608#0"0#
+
+CCompileC build/InkScreenSaver.build/Debug/InkScreenSaver.build/Objects-normal/i386/InkScreenSaverView.o /Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver/InkScreenSaverView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s304315106.152302
+e304315106.576309
+r1
+xCompileC
+xbuild/InkScreenSaver.build/Debug/InkScreenSaver.build/Objects-normal/i386/InkScreenSaverView.o
+x/Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver/InkScreenSaverView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@92"Compile /Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver/InkScreenSaverView.m304315106#304315106#0(0"0(0#0#84"/Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver/InkScreenSaverView.m8590097216#1395"    cd /Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver/build/InkScreenSaver.build/Debug/InkScreenSaver.build/InkScreenSaver.hmap -F/Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver/build/Debug -I/Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver/build/Debug/include -I/Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver/build/InkScreenSaver.build/Debug/InkScreenSaver.build/DerivedSources/i386 -I/Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver/build/InkScreenSaver.build/Debug/InkScreenSaver.build/DerivedSources -include /var/folders/aQ/aQMCq8MVGJC2lqDhRrxJL++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/InkScreenSaver_Prefix-blhhsjwrbmqutjaxstfeypgwdhhr/InkScreenSaver_Prefix.pch -c /Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver/InkScreenSaverView.m -o /Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver/build/InkScreenSaver.build/Debug/InkScreenSaver.build/Objects-normal/i386/InkScreenSaverView.o0#
+
+CCompileC build/InkScreenSaver.build/Debug/InkScreenSaver.build/Objects-normal/ppc/InkScreenSaverView.o /Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver/InkScreenSaverView.m normal ppc objective-c com.apple.compilers.gcc.4_2
+s304315108.077807
+e304315108.337394
+r1
+xCompileC
+xbuild/InkScreenSaver.build/Debug/InkScreenSaver.build/Objects-normal/ppc/InkScreenSaverView.o
+x/Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver/InkScreenSaverView.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@92"Compile /Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver/InkScreenSaverView.m304315108#304315108#0(0"0(0#0#84"/Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver/InkScreenSaverView.m8611320256#1402"    cd /Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch ppc -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc -mtune=G5 -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver/build/InkScreenSaver.build/Debug/InkScreenSaver.build/InkScreenSaver.hmap -F/Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver/build/Debug -I/Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver/build/Debug/include -I/Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver/build/InkScreenSaver.build/Debug/InkScreenSaver.build/DerivedSources/ppc -I/Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver/build/InkScreenSaver.build/Debug/InkScreenSaver.build/DerivedSources -include /var/folders/aQ/aQMCq8MVGJC2lqDhRrxJL++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/InkScreenSaver_Prefix-eafatqvaommeszayjhgoliunbmkr/InkScreenSaver_Prefix.pch -c /Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver/InkScreenSaverView.m -o /Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver/build/InkScreenSaver.build/Debug/InkScreenSaver.build/Objects-normal/ppc/InkScreenSaverView.o0#
+
+CCompileC build/InkScreenSaver.build/Debug/InkScreenSaver.build/Objects-normal/x86_64/InkScreenSaverView.o /Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver/InkScreenSaverView.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s304315106.150535
+e304315106.562031
+r1
+xCompileC
+xbuild/InkScreenSaver.build/Debug/InkScreenSaver.build/Objects-normal/x86_64/InkScreenSaverView.o
+x/Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver/InkScreenSaverView.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@92"Compile /Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver/InkScreenSaverView.m304315106#304315106#0(0"0(0#0#84"/Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver/InkScreenSaverView.m8599943456#1401"    cd /Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver/build/InkScreenSaver.build/Debug/InkScreenSaver.build/InkScreenSaver.hmap -F/Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver/build/Debug -I/Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver/build/Debug/include -I/Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver/build/InkScreenSaver.build/Debug/InkScreenSaver.build/DerivedSources/x86_64 -I/Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver/build/InkScreenSaver.build/Debug/InkScreenSaver.build/DerivedSources -include /var/folders/aQ/aQMCq8MVGJC2lqDhRrxJL++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/InkScreenSaver_Prefix-fcgmsiewnbvzsqadyszzniitpvzf/InkScreenSaver_Prefix.pch -c /Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver/InkScreenSaverView.m -o /Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver/build/InkScreenSaver.build/Debug/InkScreenSaver.build/Objects-normal/x86_64/InkScreenSaverView.o0#
+
+CCopyStringsFile /Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver/build/Debug/InkScreenSaver.saver/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s304315089.893331
+e304315091.211028
+r1
+xCopyStringsFile
+x/Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver/build/Debug/InkScreenSaver.saver/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings304315089#304315091#0(0"0(0#0#95"/Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver/English.lproj/InfoPlist.strings8616488512#425"    cd /Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-16 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver/build/Debug/InkScreenSaver.saver/Contents/Resources/English.lproj0#
+
+CCreateUniversalBinary /Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver/build/Debug/InkScreenSaver.saver/Contents/MacOS/InkScreenSaver normal "x86_64 i386 ppc"
+s304315108.612638
+e304315108.694473
+r1
+xCreateUniversalBinary
+x/Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver/build/Debug/InkScreenSaver.saver/Contents/MacOS/InkScreenSaver
+xnormal
+xx86_64 i386 ppc
+lSLF07#2@109"CreateUniversalBinary build/Debug/InkScreenSaver.saver/Contents/MacOS/InkScreenSaver normal "x86_64 i386 ppc"304315108#304315108#0(0"0(0#0#79"/Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver/x86_64 i386 ppc8621477696#692"    cd /Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver    /usr/bin/lipo -create /Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver/build/InkScreenSaver.build/Debug/InkScreenSaver.build/Objects-normal/x86_64/InkScreenSaver /Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver/build/InkScreenSaver.build/Debug/InkScreenSaver.build/Objects-normal/i386/InkScreenSaver /Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver/build/InkScreenSaver.build/Debug/InkScreenSaver.build/Objects-normal/ppc/InkScreenSaver -output /Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver/build/Debug/InkScreenSaver.saver/Contents/MacOS/InkScreenSaver0#
+
+CLd /Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver/build/InkScreenSaver.build/Debug/InkScreenSaver.build/Objects-normal/i386/InkScreenSaver normal i386
+s304315106.576422
+e304315108.077605
+r1
+xLd
+x/Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver/build/InkScreenSaver.build/Debug/InkScreenSaver.build/Objects-normal/i386/InkScreenSaver
+xnormal
+xi386
+lSLF07#2@157"Link /Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver/build/InkScreenSaver.build/Debug/InkScreenSaver.build/Objects-normal/i386/InkScreenSaver304315106#304315108#0(0"0(0#0#0"8620938752#757"    cd /Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch i386 -bundle -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver/build/Debug -F/Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver/build/Debug -filelist /Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver/build/InkScreenSaver.build/Debug/InkScreenSaver.build/Objects-normal/i386/InkScreenSaver.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -framework ScreenSaver -o /Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver/build/InkScreenSaver.build/Debug/InkScreenSaver.build/Objects-normal/i386/InkScreenSaver0#
+
+CLd /Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver/build/InkScreenSaver.build/Debug/InkScreenSaver.build/Objects-normal/ppc/InkScreenSaver normal ppc
+s304315108.337507
+e304315108.612523
+r1
+xLd
+x/Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver/build/InkScreenSaver.build/Debug/InkScreenSaver.build/Objects-normal/ppc/InkScreenSaver
+xnormal
+xppc
+lSLF07#2@156"Link /Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver/build/InkScreenSaver.build/Debug/InkScreenSaver.build/Objects-normal/ppc/InkScreenSaver304315108#304315108#0(0"0(0#0#0"8605624032#754"    cd /Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch ppc -bundle -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver/build/Debug -F/Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver/build/Debug -filelist /Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver/build/InkScreenSaver.build/Debug/InkScreenSaver.build/Objects-normal/ppc/InkScreenSaver.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -framework ScreenSaver -o /Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver/build/InkScreenSaver.build/Debug/InkScreenSaver.build/Objects-normal/ppc/InkScreenSaver0#
+
+CLd /Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver/build/InkScreenSaver.build/Debug/InkScreenSaver.build/Objects-normal/x86_64/InkScreenSaver normal x86_64
+s304315106.562140
+e304315108.079043
+r1
+xLd
+x/Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver/build/InkScreenSaver.build/Debug/InkScreenSaver.build/Objects-normal/x86_64/InkScreenSaver
+xnormal
+xx86_64
+lSLF07#2@159"Link /Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver/build/InkScreenSaver.build/Debug/InkScreenSaver.build/Objects-normal/x86_64/InkScreenSaver304315106#304315108#0(0"0(0#0#0"8621521408#763"    cd /Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -bundle -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver/build/Debug -F/Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver/build/Debug -filelist /Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver/build/InkScreenSaver.build/Debug/InkScreenSaver.build/Objects-normal/x86_64/InkScreenSaver.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -framework ScreenSaver -o /Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver/build/InkScreenSaver.build/Debug/InkScreenSaver.build/Objects-normal/x86_64/InkScreenSaver0#
+
+CProcessInfoPlistFile /Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver/build/Debug/InkScreenSaver.saver/Contents/Info.plist Info.plist
+s304315089.836552
+e304315089.893213
+r1
+xProcessInfoPlistFile
+x/Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver/build/Debug/InkScreenSaver.saver/Contents/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist304315089#304315089#0(0"0(0#0#74"/Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver/Info.plist27303429230428260#269"    cd /Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver    builtin-infoPlistUtility Info.plist -expandbuildsettings -platform macosx -o /Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver/build/Debug/InkScreenSaver.saver/Contents/Info.plist0#
+
+CProcessPCH /var/folders/aQ/aQMCq8MVGJC2lqDhRrxJL++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/InkScreenSaver_Prefix-blhhsjwrbmqutjaxstfeypgwdhhr/InkScreenSaver_Prefix.pch.gch InkScreenSaver_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s304315091.212441
+e304315101.322890
+r1
+xProcessPCH
+x/var/folders/aQ/aQMCq8MVGJC2lqDhRrxJL++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/InkScreenSaver_Prefix-blhhsjwrbmqutjaxstfeypgwdhhr/InkScreenSaver_Prefix.pch.gch
+xInkScreenSaver_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@36"Precompile InkScreenSaver_Prefix.pch304315091#304315101#0(0"0(0#0#89"/Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver/InkScreenSaver_Prefix.pch8608966464#1243"    cd /Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver/build/InkScreenSaver.build/Debug/InkScreenSaver.build/InkScreenSaver.hmap -F/Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver/build/Debug -I/Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver/build/Debug/include -I/Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver/build/InkScreenSaver.build/Debug/InkScreenSaver.build/DerivedSources/i386 -I/Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver/build/InkScreenSaver.build/Debug/InkScreenSaver.build/DerivedSources -c /Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver/InkScreenSaver_Prefix.pch -o /var/folders/aQ/aQMCq8MVGJC2lqDhRrxJL++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/InkScreenSaver_Prefix-blhhsjwrbmqutjaxstfeypgwdhhr/InkScreenSaver_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/aQ/aQMCq8MVGJC2lqDhRrxJL++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/InkScreenSaver_Prefix-eafatqvaommeszayjhgoliunbmkr/InkScreenSaver_Prefix.pch.gch InkScreenSaver_Prefix.pch normal ppc objective-c com.apple.compilers.gcc.4_2
+s304315100.742719
+e304315106.150248
+r1
+xProcessPCH
+x/var/folders/aQ/aQMCq8MVGJC2lqDhRrxJL++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/InkScreenSaver_Prefix-eafatqvaommeszayjhgoliunbmkr/InkScreenSaver_Prefix.pch.gch
+xInkScreenSaver_Prefix.pch
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@36"Precompile InkScreenSaver_Prefix.pch304315100#304315106#0(0"0(0#0#89"/Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver/InkScreenSaver_Prefix.pch8618901184#1251"    cd /Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch ppc -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc -mtune=G5 -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver/build/InkScreenSaver.build/Debug/InkScreenSaver.build/InkScreenSaver.hmap -F/Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver/build/Debug -I/Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver/build/Debug/include -I/Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver/build/InkScreenSaver.build/Debug/InkScreenSaver.build/DerivedSources/ppc -I/Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver/build/InkScreenSaver.build/Debug/InkScreenSaver.build/DerivedSources -c /Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver/InkScreenSaver_Prefix.pch -o /var/folders/aQ/aQMCq8MVGJC2lqDhRrxJL++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/InkScreenSaver_Prefix-eafatqvaommeszayjhgoliunbmkr/InkScreenSaver_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/aQ/aQMCq8MVGJC2lqDhRrxJL++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/InkScreenSaver_Prefix-fcgmsiewnbvzsqadyszzniitpvzf/InkScreenSaver_Prefix.pch.gch InkScreenSaver_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s304315091.211264
+e304315100.742526
+r1
+xProcessPCH
+x/var/folders/aQ/aQMCq8MVGJC2lqDhRrxJL++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/InkScreenSaver_Prefix-fcgmsiewnbvzsqadyszzniitpvzf/InkScreenSaver_Prefix.pch.gch
+xInkScreenSaver_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@36"Precompile InkScreenSaver_Prefix.pch304315091#304315100#0(0"0(0#0#89"/Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver/InkScreenSaver_Prefix.pch8609499072#1247"    cd /Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver/build/InkScreenSaver.build/Debug/InkScreenSaver.build/InkScreenSaver.hmap -F/Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver/build/Debug -I/Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver/build/Debug/include -I/Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver/build/InkScreenSaver.build/Debug/InkScreenSaver.build/DerivedSources/x86_64 -I/Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver/build/InkScreenSaver.build/Debug/InkScreenSaver.build/DerivedSources -c /Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver/InkScreenSaver_Prefix.pch -o /var/folders/aQ/aQMCq8MVGJC2lqDhRrxJL++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/InkScreenSaver_Prefix-fcgmsiewnbvzsqadyszzniitpvzf/InkScreenSaver_Prefix.pch.gch0#
+
+CTouch /Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver/build/Debug/InkScreenSaver.saver
+s304315108.694640
+e304315108.698899
+r1
+xTouch
+x/Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver/build/Debug/InkScreenSaver.saver
+lSLF07#2@102"Touch /Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver/build/Debug/InkScreenSaver.saver304315108#304315108#0(0"0(0#0#0"8619762496#190"    cd /Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver    /usr/bin/touch -c /Users/btanaka/nexus/sideprojects/InkScreenSaver/InkScreenSaver/build/Debug/InkScreenSaver.saver0#
+
